@@ -1,2 +1,2 @@
 # pull-request
-This repo is used to demonstrate pull reques.
+This repo is used to demonstrate pull request.
